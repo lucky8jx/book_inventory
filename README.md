@@ -19,3 +19,5 @@ http://localhost:8080/
 [Isomorphic JavaScript: The Future of Web Apps](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)
 
 [Isomorphic JavaScript Tutorial](https://github.com/spikebrehm/isomorphic-tutorial)
+
+[webpack book](http://survivejs.com/webpack/developing-with-webpack/splitting-configuration/)
